@@ -14,7 +14,7 @@ A personal portfolio website showcasing my skills, projects, and experiences. Bu
 - **HTML5** – Structure and content of the website
 - **CSS3** – Styling and layout
 - **JavaScript** – Interactive elements and functionality
-- **[Add any framework/tool here, if applicable]**
+  
 
 ## Installation
 
