@@ -197,9 +197,6 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
 const projectEyeIcons1 = document.querySelectorAll('.project1-eye-icon');
 
-// GitHub link for your projects
-// const githubLink1 = 'https://github.com/5h4d0wn1k/A-Secure-Warning-Platform-From-Web-Attacks-Using-Machine-Learning';
-
 // Add click event listener to each eye icon
 projectEyeIcons1.forEach(icon => {
     icon.addEventListener('click', function(event) {
@@ -211,9 +208,6 @@ projectEyeIcons1.forEach(icon => {
 });
 
 const projectEyeIcons2 = document.querySelectorAll('.project2-eye-icon');
-
-// GitHub link for your projects
-// const githubLink2 = 'https://github.com/5h4d0wn1k/Decentralized_cloud_storage';
 
 // Add click event listener to each eye icon
 projectEyeIcons2.forEach(icon => {
