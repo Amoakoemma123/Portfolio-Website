@@ -1,2 +1,2 @@
-[build]
-  publish = "Portfolio-website"
+# Netlify configuration
+# Publish directory is set in Netlify UI as Portfolio-website
