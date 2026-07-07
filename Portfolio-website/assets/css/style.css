@@ -274,9 +274,12 @@ main {
   background: var(--onyx);
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
-  width: max-content;
+  width: 100%;
   padding: 3px 12px;
   border-radius: 8px;
+  text-align: center;
+  white-space: normal;
+  word-break: break-word;
 }
 .info_more-btn {
   position: absolute;
@@ -393,8 +396,22 @@ main {
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
+  text-align: justify;
 }
 .about-text p { margin-bottom: 15px; }
+
+.about-text .section { margin-bottom: 12px; }
+
+.about-text .heading {
+  font-weight: var(--fw-600);
+  color: var(--orange-yellow-crayola);
+  margin-bottom: 4px;
+}
+
+.about-text .content {
+  margin-left: 15px;
+  color: var(--light-gray);
+}
 /**
  * #service 
  */
@@ -423,7 +440,7 @@ main {
 }
 .service-icon-box { margin-bottom: 10px; }
 .service-icon-box img { margin: auto; }
-.service-content-box { text-align: center; }
+.service-content-box { text-align: justify; }
 .service-item-title { margin-bottom: 7px; }
 .service-item-text {
   color: var(--light-gray);
@@ -1303,7 +1320,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-top: 5px;
   }
 
-  .service-content-box { text-align: left; }
+  .service-content-box { text-align: justify; }
 
   /* testimonials */
 
@@ -1732,7 +1749,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .avatar-box img { width: 150px; }
 
   .info-content .name {
-    white-space: nowrap;
+    white-space: normal;
     text-align: center;
   }
 
