@@ -36,9 +36,9 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 ## Contact
 
 For any inquiries, you can reach me at:
-- **Email:** [YourEmail@example.com]
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **GitHub:** [Your GitHub Profile URL]
+- **Email:** [amoakopuyol123@gmail.com]
+- **LinkedIn:** [[Your LinkedIn Profile URL](https://www.linkedin.com/in/amoako-kwame-emmanuel-92b0a6225)]
+- **GitHub:** [[Your GitHub Profile URL](https://github.com/Amoakoemma123)]
 
 ---
 
